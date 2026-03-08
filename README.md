@@ -19,6 +19,10 @@ git clone <your-repo-link>
 
 ---
 
+git clone <your-repo-link>
+
+---
+
 ## Navigate to the Desired Folder
 
 - cd DSA/TopicFolder
@@ -29,13 +33,11 @@ git clone <your-repo-link>
 
 ## Run the Executable
 
-- Windows
+- **Windows:**
+  - problem.exe
 
-*problem.exe
-
-- Linux / Mac:
-
-*./problem
+- **Linux / Mac:**
+  - ./problem
 
 
 
