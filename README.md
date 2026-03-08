@@ -31,11 +31,11 @@ git clone <your-repo-link>
 
 - Windows
 
-* problem.exe
+*problem.exe
 
 - Linux / Mac:
 
-* ./problem
+*./problem
 
 
 
