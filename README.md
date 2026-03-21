@@ -23,6 +23,8 @@ git clone <your-repo-link>
 
 ---
 
+```
+
 ## Navigate to the Desired Folder
 
 - cd DSA/TopicFolder
@@ -38,6 +40,10 @@ git clone <your-repo-link>
 
 - **Linux / Mac:**
   - ./problem
+
+## 📌 Author
+
+**Sumit Kumar**
 
 
 
