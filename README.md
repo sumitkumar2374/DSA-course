@@ -15,7 +15,7 @@ This repository contains **C++ solutions** for various **Data Structures and Alg
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/sumitkumar2374/DSA-course.git
 
 ```
 
