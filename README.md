@@ -17,12 +17,6 @@ This repository contains **C++ solutions** for various **Data Structures and Alg
 ```bash
 git clone <your-repo-link>
 
----
-
-git clone <your-repo-link>
-
----
-
 ```
 
 ## Navigate to the Desired Folder
