@@ -43,7 +43,7 @@ git clone <your-repo-link>
 
 ## 📌 Author
 
-** Mr Sumit Kumar**
+**Mr Sumit Kumar**
 
 
 
