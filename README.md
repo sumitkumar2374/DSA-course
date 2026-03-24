@@ -25,15 +25,15 @@ git clone https://github.com/sumitkumar2374/DSA-course.git
 
 ## Compile the C++ Code
 
-- g++ problem.cpp -o problem
+- `g++ problem.cpp -o problem`
 
 ## Run the Executable
 
 - **Windows:**
-  - problem.exe
+  - `problem.exe`
 
 - **Linux / Mac:**
-  - ./problem
+  - `./problem`
 
 ## 📌 Author
 
