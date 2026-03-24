@@ -21,7 +21,7 @@ git clone https://github.com/sumitkumar2374/DSA-course.git
 
 ## Navigate to the Desired Folder
 
-- cd DSA/TopicFolder
+- `cd` DSA/TopicFolder
 
 ## Compile the C++ Code
 
