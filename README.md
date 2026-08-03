@@ -1,5 +1,7 @@
 # Here are the commit list for contribution graph 
 
+- 1st/2nd commit
+
 # Data Structures and Algorithms (DSA) in C++ 📚
 
 Welcome to my **DSA course repository**!  
