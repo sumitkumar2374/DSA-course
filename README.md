@@ -1,5 +1,3 @@
-# Here are one last changes in **main** 
-
 # Data Structures and Algorithms (DSA) in C++ 📚
 
 Welcome to my **DSA course repository**!  
