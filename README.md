@@ -1,12 +1,3 @@
-# Here is the commit list for contribution graph 
-
-- 1st/2nd commit list
-- 3rd commit list is attach
-- 4th commit list is the check
-- 5th commit list is the preview 
-
----
-
 # Data Structures and Algorithms (DSA) in C++ 📚
 
 Welcome to my **DSA course repository**!  
